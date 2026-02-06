@@ -57,7 +57,7 @@ export function Hero() {
       {/* Download Button */}
       <a
         href="/AYICIK_NEXUS_v9.exe"
-        download="AYICIK_NEXUS_v9.exe"
+        download="https://github.com/webwardenn/ay-c-knexus/releases/download/v1.0/AYICIK_NEXUS_v9.exe"
         className="fade-up group relative mt-12 inline-flex items-center gap-3 rounded-full border border-primary/30 bg-primary/10 px-8 py-4 text-sm font-medium tracking-wide text-primary-foreground opacity-0 transition-all duration-700 delay-[400ms] ease-out translate-y-8 hover:border-primary/60 hover:bg-primary/20 hover:shadow-[0_0_40px_rgba(59,130,246,0.15)] [&.animate-in]:opacity-100 [&.animate-in]:translate-y-0"
       >
         <Download className="h-4 w-4 transition-transform duration-300 group-hover:-translate-y-0.5" />
