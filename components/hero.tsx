@@ -129,7 +129,7 @@ export function Hero() {
         }`}
       >
         <a
-          href="https://github.com/webwardenn/ay-c-/releases/download/v10.3/AYICIK_NEXUS_v10.3_Setup.exe"
+          href="https://github.com/webwardenn/ay-c-knexus/releases/download/v10.3/AYICIK_NEXUS_v10.3_Setup.exe"
           className="group relative inline-flex items-center gap-3 overflow-hidden rounded-full bg-primary px-10 py-4 text-sm font-semibold tracking-wider text-primary-foreground shadow-[0_0_50px_rgba(59,130,246,0.3)] transition-all duration-500 hover:shadow-[0_0_80px_rgba(59,130,246,0.5)] hover:scale-[1.02]"
         >
           <div className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/20 to-transparent transition-transform duration-700 group-hover:translate-x-full" />
