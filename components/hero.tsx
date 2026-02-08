@@ -77,7 +77,7 @@ export function Hero() {
         <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/[0.06] px-4 py-1.5 backdrop-blur-xl">
           <div className="h-1.5 w-1.5 rounded-full bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.6)]" />
           <span className="text-xs font-medium tracking-wider text-primary/90">
-            v10.3 AVAILABLE
+            v10.4 AVAILABLE
           </span>
         </div>
       </div>
